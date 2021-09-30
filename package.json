@@ -1,5 +1,5 @@
 {
-  "name": "amp-rsa-types",
+  "name": "@amp-nova/amp-rsa-types",
   "version": "1.0.0",
   "description": "types for amp-rsa",
   "main": "dist/index.js",
