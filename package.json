@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "rm -rf dist && tsc"
+    "prepare": "rimraf dist && tsc"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/amp-nova/amp-rsa-types/issues"
   },
-  "homepage": "https://github.com/amp-nova/amp-rsa-types#readme"
+  "homepage": "https://github.com/amp-nova/amp-rsa-types#readme",
+  "dependencies": {
+    "rimraf": "^3.0.2"
+  }
 }
