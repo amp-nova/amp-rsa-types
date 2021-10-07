@@ -62,6 +62,7 @@ export class Variant extends Identifiable {
 }
 
 export class Category extends CommerceObject {
+    parent?: Category
     children: Category[]
     products: Product[]
 }
