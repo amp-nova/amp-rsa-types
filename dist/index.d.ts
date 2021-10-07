@@ -51,6 +51,7 @@ export declare class Variant extends Identifiable {
     articleNumberMax?: string;
 }
 export declare class Category extends CommerceObject {
+    parent?: Category;
     children: Category[];
     products: Product[];
 }
