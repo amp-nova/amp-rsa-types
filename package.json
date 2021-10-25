@@ -1,7 +1,7 @@
 {
-  "name": "@amp-nova/amp-rsa-types",
+  "name": "@amp-nova/aria-types",
   "version": "1.0.3",
-  "description": "types for amp-rsa",
+  "description": "type definitinons for aria (amplience reference integration architecture)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amp-nova/amp-rsa-types.git"
+    "url": "https://github.com/amp-nova/aria-types.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amp-nova/amp-rsa-types/issues"
+    "url": "https://github.com/amp-nova/aria-types/issues"
   },
-  "homepage": "https://github.com/amp-nova/amp-rsa-types#readme",
+  "homepage": "https://github.com/amp-nova/aria-types#readme",
   "dependencies": {
     "rimraf": "^3.0.2",
     "typescript": "^4.4.3"
