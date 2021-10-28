@@ -1,6 +1,6 @@
 {
   "name": "@amp-nova/aria-types",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "type definitinons for aria (amplience reference integration architecture)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
