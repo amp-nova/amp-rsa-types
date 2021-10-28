@@ -4,3 +4,9 @@
 
 ## API Reference
 
+## Packages
+
+|  Package | Description |
+|  --- | --- |
+|  [@amp-nova/aria-types](./aria-types.md) |  |
+
