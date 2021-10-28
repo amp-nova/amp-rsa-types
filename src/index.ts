@@ -38,6 +38,7 @@ export class CommerceObject extends Identifiable {
 export class Product extends CommerceObject {
     shortDescription?: string
     longDescription?: string
+    imageSetId?: string
     categories: Category[]
     variants: Variant[]
     productType: string
