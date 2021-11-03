@@ -27,6 +27,7 @@ export declare class Identifiable {
 export declare class CommerceObject extends Identifiable {
     slug: string;
     name: string;
+    raw: string;
 }
 export declare class Product extends CommerceObject {
     shortDescription?: string;
