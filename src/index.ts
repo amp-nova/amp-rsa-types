@@ -33,6 +33,7 @@ export class Identifiable {
 export class CommerceObject extends Identifiable {
     slug: string
     name: string
+    raw: string
 }
 
 export class Product extends CommerceObject {
